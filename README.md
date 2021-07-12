@@ -12,13 +12,12 @@ git clone https://github.com/chrix95/nodejs-basic-setup.git
 On terminal run:
 npm install
 ```
+
+## Usage
 ```bash
 On terminal run:
 npm start
 ```
-
-## Usage
-
 
 ## License
 
